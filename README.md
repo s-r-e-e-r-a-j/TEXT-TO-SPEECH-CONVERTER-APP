@@ -1,1 +1,3 @@
-Text To Speech Converter Maded With Html Css And Javascript![Screenshot 2024-08-28 192115](https://github.com/user-attachments/assets/5f299d9b-e0d0-4203-b536-98a6756ab59b)
+Text To Speech Converter Maded With Html Css And Javascript
+
+<img width="1072" height="718" alt="Screenshot 2025-09-20 143138" src="https://github.com/user-attachments/assets/ccb9f024-e2d3-4c3e-bc08-a07048223542">
